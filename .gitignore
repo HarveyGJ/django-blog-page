@@ -24,7 +24,7 @@ db.sqlite3
 Thumbs.db*
 ehthumbs*.db
 [Dd]esktop.ini
-$RECYCLE.BIN/
+$RECYCLE.BIN/git 
 
 # Visual Studio
 .vscode/
